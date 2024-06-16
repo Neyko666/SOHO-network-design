@@ -18,6 +18,7 @@ Technology Implemented:
 7.Connection Test. I tested connection between 3 departments and all of them can communicate with each other in the office.
 
 <img src="https://github.com/Neyko666/SOHO-network-design/assets/171580092/fe4225c5-47d6-467e-89b9-6590501bdbd2" width="600">
-<img src="https://github.com/Neyko666/SOHO-network-design/assets/171580092/fe4225c5-4" width="600" style="display: block; margin: auto;">
+<img src="https://github.com/Neyko666/SOHO-network-design/assets/171580092/fe4225c5-4" width="600" style="display: block; margin-left: auto; margin-right: auto;">
+
 
 
