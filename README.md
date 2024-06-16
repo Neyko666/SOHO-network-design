@@ -21,24 +21,21 @@ Technology Implemented:
 <div align = "center">
 <img src="https://github.com/Neyko666/SOHO-network-design/assets/171580092/fe4225c5-47d6-467e-89b9-6590501bdbd2" width="800">
 </div>
-
-
+<br>
 <div align = "center">
 <img src="https://github.com/Neyko666/SOHO-network-design/assets/171580092/06cc24e6-21fb-45d6-bb7a-ba738f9e3f6a" width="500">
 </div>
-
-
+<br>
 <div align = "center">
 <img src="https://github.com/Neyko666/SOHO-network-design/assets/171580092/b4cd4cf1-c62d-4e71-8999-99d18639b750" width="500">
 </div>
-
+<br>
 <div align = "center">
-<img src="https://github.com/Neyko666/SOHO-network-design/assets/171580092/b4cd4cf1-c62d-4e71-8999-99d18639b750" width="500">
+<img src="https://github.com/Neyko666/SOHO-network-design/assets/171580092/d2243665-1a7d-4a05-8e6b-35bca0f2afd3" width="500">
 </div>
-
+<br>
 <div align = "center">
-<img src="https://github.com/Neyko666/SOHO-network-design/assets/171580092/b4cd4cf1-c62d-4e71-8999-99d18639b750" width="500">
+<img src="https://github.com/Neyko666/SOHO-network-design/assets/171580092/15313c51-f1bc-4872-867d-c64befaa50db" width="500">
 </div>
-
 
 
