@@ -19,9 +19,12 @@ Technology Implemented:
 
 
 <div align = "center">
-<img src="https://github.com/Neyko666/SOHO-network-design/assets/171580092/fe4225c5-47d6-467e-89b9-6590501bdbd2" width="800" title = "topology">
+<img src="https://github.com/Neyko666/SOHO-network-design/assets/171580092/fe4225c5-47d6-467e-89b9-6590501bdbd2" width="800">
 </div>
 
+<div align = "center">
+<img src="https://github.com/Neyko666/SOHO-network-design/assets/171580092/06cc24e6-21fb-45d6-bb7a-ba738f9e3f6a" width="800">
+</div>
 
 
 
