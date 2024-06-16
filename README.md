@@ -1,5 +1,5 @@
 # SOHO-network-design
-After 2 hours configuration I completed a SOHO network design and implementation project on Cisco Packet Tracer.
+A SOHO network design and implementation project on Cisco Packet Tracer. The office has three departments.
 
 Technology Implemented:
 
