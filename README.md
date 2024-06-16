@@ -2,6 +2,7 @@
 After 2 hours configuration I completed a SOHO network design and implementation project on Cisco Packet Tracer.
 
 Technology Implemented:
+
 1.IP subnetting and addressing. I used 192.168.1.0/24 to divided into 3 subnets of /26 for three departments as shown on topology.
 
 2.VLAN. I created 3 vlans for three departments and configured them on corresponding access ports on S1.
