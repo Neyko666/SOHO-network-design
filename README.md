@@ -17,12 +17,6 @@ Technology Implemented:
 
 7.Connection Test. I tested connection between 3 departments and all of them can communicate with each other in the office.
 
-![1717058922308](https://github.com/Neyko666/SOHO-network-design/assets/171580092/e1adaa0a-69c8-4cbc-9a81-737072729dc7)
-![e0535e8446a1cc8641659f6c61dfcf8](https://github.com/Neyko666/SOHO-network-design/assets/171580092/53d2aec7-fc54-410d-ba51-235d80181ef4)
-![4f827472e4a3bd069bee27bc13c5192](https://github.com/Neyko666/SOHO-network-design/assets/171580092/cc2c66de-317f-49d1-af61-c6d603ecb353)
-![951961f9b77360e67139db19b710e8f](https://github.com/Neyko666/SOHO-network-design/assets/171580092/5297ce74-95c0-48a0-ab4f-a2467d0b4392)
-![Uploading 186a0827c03e31cfd65b2b5b7c0b577.jpg…]()
-<p align="center">
-  <img src="[https://github.com/Neyko666/SOHO-network-design/assets/171580092/e1adaa0a-69c8-4cbc-9a81-737072729dc7]" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p align="center">
+  <img src="github.com/Neyko666/SOHO-network-design/assets/171580092/e1adaa0a-69c8-4cbc-9a81-737072729dc7" width="350" title="hover text">
 </p>
